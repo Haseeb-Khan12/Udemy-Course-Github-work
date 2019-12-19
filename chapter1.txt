@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is chapter1.txt file and it is awesome.
+=======
+This is no longer chapter 1
+
+>>>>>>> side-story
