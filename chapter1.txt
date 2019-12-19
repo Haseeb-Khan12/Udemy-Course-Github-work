@@ -1,1 +1,1 @@
-Hey how you doin?, this is chapter 1
+This is chapter1.txt file and it is awesome.
